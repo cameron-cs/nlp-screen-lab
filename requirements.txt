@@ -1,0 +1,8 @@
+argparse
+joblib
+nltk
+pandas
+gensim
+sklearn
+bs4
+pyarrow
